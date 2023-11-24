@@ -5,7 +5,7 @@
 ### **1. 介紹**
 之前我釋出了[富邦Angels](https://github.com/hbw0386/fubonangels2023 "link")版本的app
 這次我決定製作樂天女孩版本, 並稍微改良一下數據呈現方式,  
-<img src="https://github.com/hbw0386/rkg2023/assets/139471040/23e98c34-f247-4833-9b59-f774f7431461" width="430" height="450"> 
+<img src="https://github.com/hbw0386/rkg2023/assets/139471040/23e98c34-f247-4833-9b59-f774f7431461" width="430" height="450">   
 最上方一樣有下拉選單可以選擇2023年完整的33位樂天女孩, 包括了(按照背號排列)  
 琳妲, 苡萱, 嘎琳, 小紫, 阿布舞, 宋宋, 筠熹, 儷軒, 語芯, 卉妮,  
 陳伊, 穎樂, 孟潔, Yuri, 熊霓, Kira, 菲菲, 心韻, 雅涵, 慧慧,  
