@@ -1,6 +1,7 @@
 # rkg2023
 以樂天女孩出席場次來篩選，計算樂天桃猿球員成績!  
 連結擺在這, 歡迎大家上去看看
+https://hbw-baseball.shinyapps.io/rkg2023/
 
 ### **1. 介紹**
 之前我釋出了[富邦Angels](https://github.com/hbw0386/fubonangels2023 "link")版本的app
